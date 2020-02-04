@@ -11,7 +11,7 @@ goto check_Permissions
     cmd /k
 
 :disk_type
-    echo **** UWE SIMPLE DISK CLEANER V1.1 ****
+    echo **** SIMPLE DISK CLEANER V1.1 ****
     set "SELECT_TYPE=."
     set "SELECTED_DISK_TYPE=NTFS"
 
